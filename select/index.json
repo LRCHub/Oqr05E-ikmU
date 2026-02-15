@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Ascensionism",
+  "base_artist": "Sleep Token",
+  "createdAt": "2026-02-15T15:53:09.831147Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ascensionism",
+      "artist": "Sleep Token",
+      "has_synced": true,
+      "path": "select/01_Ascensionism_Sleep_Token.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ascensionism",
+      "artist": "Sleep Token",
+      "has_synced": true,
+      "path": "select/02_Ascensionism_Sleep_Token.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ascensionism",
+      "artist": "Sleep Token",
+      "has_synced": true,
+      "path": "select/03_Ascensionism_Sleep_Token.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ascensionism",
+      "artist": "Sleep Token",
+      "has_synced": true,
+      "path": "select/04_Ascensionism_Sleep_Token.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Ascensionism (Paused)",
+      "artist": "Sleep Token",
+      "has_synced": true,
+      "path": "select/05_Ascensionism_(Paused)_Sleep_Token.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ascensionism",
+      "artist": "Sleep Token",
+      "has_synced": false,
+      "path": "select/pl_01_Ascensionism_Sleep_Token.txt"
+    }
+  ]
+}
